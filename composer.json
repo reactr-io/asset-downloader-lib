@@ -1,0 +1,17 @@
+{
+    "name": "reactr-io/asset-downloader-lib",
+    "description": "A WordPress backend downloading assets from a server. A compansion to our client-side Hook, @reactr-io/asset-downloader-lib",
+    "license": "GPL-2.0-only",
+    "authors": [
+        {
+            "name": "Michael Weichert",
+            "email": "mweichert@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Reactr-IO\\": "php-src/reactr-io"
+        }
+    }
+}
