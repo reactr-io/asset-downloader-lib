@@ -11,7 +11,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Reactr-IO\\": "php-src/reactr-io"
+            "ReactrIO\\": "./php-src/ReactrIO"
         }
     }
 }
