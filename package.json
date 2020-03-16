@@ -1,6 +1,6 @@
 {
   "name": "@reactr-io/asset-downloader-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React hook for downloading assets server-side. A front-end client for our Composer package, reactr-io/asset-downloader-lib",
   "main": "index.js",
   "scripts": {

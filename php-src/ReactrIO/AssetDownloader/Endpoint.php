@@ -48,7 +48,7 @@ class Endpoint
 
     function endpoint(\WP_REST_Request $request)
     {
-        do_action('imagely-asset-downloader-request');
+        do_action('reactr-asset-downloader-request');
 
         try {
             $asset = $this->validate_request($request);
